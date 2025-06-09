@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 - How to start with **Linux commands**. (*أوامر لينكس للمبتدئين*).  
 
 ### 📫 How to reach me:  
-- **Email**: student@example.com  
-- **LinkedIn**: [Your Name](https://linkedin.com/in/Alshoaibimuhammad) (*رابط اللينكدان*)  
+- **Email**: alshoaibimuhammad @gmail.com  
+- **LinkedIn**: [muhammadAlshoaibi](https://linkedin.com/in/Alshoaibimuhammad) (*رابط اللينكدان*)  
 - **Twitter**: [@YourHandle](https://twitter.com/yourhandle) (*حساب تويتر*)  
 
 ### 😄 Pronouns:  
