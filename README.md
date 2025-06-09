@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔭 I’m currently studying on Alwehda university 
-- A **Python automation script** to organize files (*مشروع بايثون لأتمتة تنظيم الملفات*).  
 - Building a **personal portfolio website** using HTML/CSS/JS (*موقع شخصي لعرض المشاريع*).  
 
 ### 🌱 I’m currently learning...  
@@ -34,10 +33,10 @@ Here are some ideas to get you started:
 - Python programming tips! (*نصائح برمجة بايثون*).  
 - How to start with **Linux commands**. (*أوامر لينكس للمبتدئين*).  
 
-### 📫 How to reach me:  
-- **Email**: alshoaibimuhammad @gmail.com  
-- **LinkedIn**: [muhammadAlshoaibi](https://linkedin.com/in/Alshoaibimuhammad) (*رابط اللينكدان*)  
-- **Twitter**: [@YourHandle](https://twitter.com/yourhandle) (*حساب تويتر*)  
+### 📫 How to sreach me:  
+- **Email**: alshoaibimuhammad@gmail.com  
+- **LinkedIn**: [muhammadAlshoaibi](https://linkedin.com/in/muhammadalshoaibi) (*رابط اللينكدان*)  
+- **Twitter**: [@YourHandle(https://twitter.com/yourhandle) (*حساب تويتر*)  
 
 ### 😄 Pronouns:  
 He/Him | She/Her  
